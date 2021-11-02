@@ -5,7 +5,7 @@
 
 # Medical Specialty Prediction with Spark NLP
 
-The goal of this project was to predict medical specialties (surgery, internal medicine, medical records, other) based on a corpus of 4999 medical transcriptions using Spark NLP. The dataset was scraped by Tara Boyle, scraped from Transcribed Medical Transcription website and published on Kaggle. The version used in this project was compiled by Carlos Salgado for Natural Language Processing using the scraped medical transcription corpus and custom-generated clinical stop words and vocabulary.
+The goal of this project was to predict medical specialties (surgery, internal medicine, medical records, other) based on a corpus of 4999 medical transcriptions using Spark NLP. The dataset was scraped by Tara Boyle, scraped from a Transcribed Medical Transcription Sample Reports and Examples website and published on Kaggle. The version used in this project was compiled by Carlos Salgado for Natural Language Processing using the scraped medical transcription corpus and custom-generated clinical stop words and vocabulary.
 
 **Note: the notebook can be opened and run in Google Colab.**
 
