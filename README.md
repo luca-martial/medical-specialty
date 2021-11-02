@@ -7,7 +7,7 @@
 
 The goal of this project was to predict medical specialties (surgery, internal medicine, medical records, other) based on a corpus of 4999 medical transcriptions using Spark NLP. The corpus was scraped by [Tara Boyle](https://github.com/terrah27) from a [Transcribed Medical Transcription Sample Reports and Examples website](https://mtsamples.com/) and published on [Kaggle](https://www.kaggle.com/tboyle10/medicaltranscriptions). The version used in this project was compiled by [Carlos Salgado](https://github.com/socd06) for Natural Language Processing using the scraped corpus and custom-generated clinical stop words and vocabulary. This compiled version was published on [GitHub](https://github.com/socd06/medical-nlp) and is free to use.
 
-**Note: the notebook can be opened and run in Google Colab.**
+**Note: the [notebook](https://github.com/luca-martial/medical-specialty/blob/main/medical_specialty_prediction.ipynb) can be opened and run in Google Colab.**
 
 The following models were tested using Spark NLP's open source and licensed healthcare version:
 
