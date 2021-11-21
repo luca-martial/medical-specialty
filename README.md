@@ -21,6 +21,8 @@ The following models were tested using Spark NLP's open source and licensed heal
 - Random Forest with Universal Sentence Encoder
 - Random Forest with CountVectorizer
 - Random Forest with TF-IDF
+- Random Forest with feature engineering using 5 clinical NER models, a clinical risk assertion model and 2 clinical entity resolvers
+- Logistic Regression with feature engineering using 5 clinical NER models, a clinical risk assertion model and 2 clinical entity resolvers
 
 ## Contributing
 
